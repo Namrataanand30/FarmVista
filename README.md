@@ -35,8 +35,6 @@ Explore production statistics and trends in the dashboard section.
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Built as a project for Asansol Engineering College.
